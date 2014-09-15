@@ -74,11 +74,11 @@ The  goal of the NSM project is to provide useful context information for  both 
 What you can do with this service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Coverage of traffic at the entry point and key routing points of Mozilla's data centers including firewalls and Load Balancers.
-Interfaces and utilities to facilitate and accelerate Incident Response
-Detection of various network level anomalies that might suggest either intrusion or network issues.
-Give a lot of statistical information that traditional monitoring systems can't, from the application level protocols.
-Make  sense out of the data at the higher protocol levels, sessions and  packets.
+- Coverage of traffic at the entry point and key routing points of Mozilla's data centers including firewalls and Load Balancers.
+- Interfaces and utilities to facilitate and accelerate Incident Response
+- Detection of various network level anomalies that might suggest either intrusion or network issues.
+- Give a lot of statistical information that traditional monitoring systems can't, from the application level protocols.
+- Make  sense out of the data at the higher protocol levels, sessions and  packets.
 
 
 Service: Real-time systems forensic
